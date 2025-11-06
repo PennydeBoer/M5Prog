@@ -8,6 +8,10 @@ Met dit [Script](M5ProgUnity/Assets/Scripts/CreateBall.cs) heb ik ervoor gezorgt
 
 met de scripts hieronder heb ik ervoor gezorgt dat je met een click een random gegenereerde toren spawnt en dat ze op de juiste hoogte staan.  
 [Tower script](M5ProgUnity/Assets/Scripts/Tower.cs) || [Tower spawner script](M5ProgUnity/Assets/Scripts/Towerspawner.cs)
+# Opdracht 3
+![Opdracht 3 gif](GIFs/Opdracht_3.gif)
+
+Met een EnemySpawner [script](M5ProgUnity/Assets/Scripts/EnemySpawner.cs) heb ik ervoor gezorgt dat je [enemies](M5ProgUnity/Assets/Scripts/Enemy.cs) in kan spawnen en met W toets 100 in spawnt en met Q toets alles verwijderd
 # Opdracht 4  
 ![Opdracht 4 gif](GIFs/Opdracht_4.gif)
 
@@ -23,9 +27,12 @@ Eerst ging ik bugs van Mythe reporten
 Daarna heb ik breakpoint getest van mijn tower 
 
 ![Breakpoint](GIFs/BreakPoint.png)  
-# Opdracht 6  
+# Opdracht 6/7  
 ![Opdracht 6 gif](GIFs/Space48.gif)
 ![Opdracht 6 Scripts](GIFs/Space48.png)
 
-Ik heb een script in meerdere scripts opgesplits en een algemene movement script gemaakt.
+Ik heb een script in meerdere scripts opgesplits en een algemene movement [script](M5ProgUnity/Assets/Scripts/Space48/Movement.cs) gemaakt.
+# Opdracht 8
+![Opdracht 8 gif](GIFs/Opdracht_8.gif)
 
+Ik heb met een parent [script](M5ProgUnity/Assets/Scripts/Inheritance/EnemyParent.cs) andere enemies gemaakt zoals een [elf](M5ProgUnity/Assets/Scripts/Inheritance/Elf.cs) en een [brute](M5ProgUnity/Assets/Scripts/Inheritance/Brute.cs) door gebruik te maken van inhertance.
