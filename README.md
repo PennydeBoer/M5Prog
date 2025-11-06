@@ -27,5 +27,5 @@ Daarna heb ik breakpoint getest van mijn tower
 ![Opdracht 6 gif](GIFs/Space48.gif)
 ![Opdracht 6 Scripts](GIFs/Space48.png)
 
-Ik heb een script in meerdere scripts opgesplits en een algemene movement [script](Space48/Assets/Scripts/Movement.cs) gemaakt.
+Ik heb een script in meerdere scripts opgesplits en een algemene movement script gemaakt.
 
